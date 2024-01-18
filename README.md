@@ -1,1 +1,1 @@
-# HEY I'm learing about GIT & GITHUB
+# HEY I'm learning about GIT & GITHUB
